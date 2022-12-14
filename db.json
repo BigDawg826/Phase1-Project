@@ -1,0 +1,966 @@
+{
+    "marvel-heroes" : [ {
+        "response": "success",
+        "id": 222,
+        "name": "Doctor Doom",
+        "powerstats": {
+            "intelligence": "100",
+            "strength": "32",
+            "speed": "20",
+            "durability": "100",
+            "power": "100",
+            "combat": "84"
+        },
+        "biography": {
+            "full-name": "Victor von Doom",
+            "alter-egos": "No alter egos found.",
+            "aliases": [
+                "The Master",
+                "Invincible Man"
+            ],
+            "place-of-birth": "Haasenstadt, Latveria",
+            "first-appearance": "Fantastic Four #5 (July 1962)",
+            "publisher": "Marvel Comics",
+            "alignment": "bad"
+        },
+        "appearance": {
+            "gender": "Male",
+            "race": "Human",
+            "height": [
+                "6'7",
+                "201 cm"
+            ],
+            "weight": [
+                "415 lb",
+                "187 kg"
+            ],
+            "eye-color": "Brown",
+            "hair-color": "Brown"
+        },
+        "work": {
+            "occupation": "Monarch",
+            "base": "Castle Doom, Doomstadt, Latveria"
+        },
+        "connections": {
+            "group-affiliation": "Future Foundation; Formerly Cabal, Knights of the Atomic Table, Acts of Vengeance Prime Movers, partner of Namor, employer of the Terrible Trio, Fantastic Four (leader)",
+            "relatives": "Werner von Doom (father, deceased), Cynthia von Doom (mother, deceased); Kang the Conqueror, his counterparts, and offspring (alleged descendants), Kristoff Vernard (Doctor Doom II, adopted son), Dr Bob Doom (distant cousin), Boris (unofficially adoptive father/guardian), Valeria von Doom (daughter from alternate universe; became baby of Susan Richards and is now called Valeria Richards)"
+        },
+        "image": {
+            "url": "https://www.superherodb.com/pictures2/portraits/10/100/189.jpg"
+        }
+    },  {
+        "response": "success",
+        "id": "96",
+        "name": "Black Bolt",
+        "powerstats": {
+            "intelligence": "75",
+            "strength": "67",
+            "speed": "100",
+            "durability": "84",
+            "power": "100",
+            "combat": "56"
+    },
+    "biography": {
+        "full-name": "Blackagar Boltagon",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "-"
+        ],
+        "place-of-birth": "Attilan, Atlantic Ocean",
+        "first-appearance": "Fantastic Four #45 (December, 1965)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Inhuman",
+        "height": [
+            "6'2",
+            "188 cm"
+        ],
+        "weight": [
+            "210 lb",
+            "95 kg"
+        ],
+        "eye-color": "Blue",
+        "hair-color": "Black"
+    },
+    "work": {
+        "occupation": "King of the Inhumans",
+        "base": "Attilan, Blue Area of the Moon"
+    },
+    "connections": {
+        "group-affiliation": "Universal Inhumans; Inhuman Royal Family; formerly Illuminati",
+        "relatives": "Medusa (wife and first cousin), Ahura (son), Agon (father, deceased), Rynda(mother, deceased), Maximus (brother), Crystal (sister-in-law), Gorgon, Karnak, Triton (cousins)"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/243.jpg"
+    }
+  },
+  {
+    "response": "success",
+    "id": "717",
+    "name": "Wolverine",
+    "powerstats": {
+        "intelligence": "63",
+        "strength": "32",
+        "speed": "50",
+        "durability": "100",
+        "power": "89",
+        "combat": "100"
+    },
+    "biography": {
+        "full-name": "Logan",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "Weapon X",
+            "Weapon Ten",
+            "Death",
+            "Mutate 9601",
+            "Jim Logan",
+            "Emilio Garra",
+            "Weapon Chi",
+            "Experiment X",
+            "Agent Ten",
+            "Peter Richards",
+            "Mai kethLogan",
+            "Mr. Patch"
+        ],
+        "place-of-birth": "Alberta, Canada",
+        "first-appearance": "Incredible Hulk Vol. 2 #180",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Mutant",
+        "height": [
+            "5'3",
+            "160 cm"
+        ],
+        "weight": [
+            "300 lb",
+            "135 kg"
+        ],
+        "eye-color": "Blue",
+        "hair-color": "Black"
+    },
+    "work": {
+        "occupation": "Adventurer, instructor, former bartender, bouncer, spy, government operative, mercenary, soldier, sailor, miner",
+        "base": "Xavier Institute, Salem Center, Westchester County, New York; Avengers Tower, New York City"
+    },
+    "connections": {
+        "group-affiliation": "X-Men, formerly Horsemen of Apocalypse, Fantastic Four, Secret Defenders, Clan Yashida, Department H, Alpha Flight, Department K, Team X, Team_Weapon_X, Devil's Brigade, Canadian Army",
+        "relatives": "John Howlett Sr. (father, deceased), Elizabeth Howlett (mother, deceased), John Howlett Jr. (brother, allegedly deceased), Viper (ex-wife), Amiko (foster daughter), Erista (son), X-23 (clone)"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/161.jpg"
+    }
+},  {
+    "response": "success",
+    "id": "106",
+    "name": "Black Panther",
+    "powerstats": {
+        "intelligence": "88",
+        "strength": "16",
+        "speed": "30",
+        "durability": "60",
+        "power": "41",
+        "combat": "100"
+    },
+    "biography": {
+        "full-name": "T'Challa",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "Mr. Okonkwo",
+            "The Man Without Fear",
+            "Luke Charles",
+            "Black Leopard",
+            "the Client",
+            "Coal Tiger",
+            "has impersonated Daredevil and others on occasion"
+        ],
+        "place-of-birth": "Wakanda, Africa",
+        "first-appearance": "Fantastic Four Vol. 1 #52 (1966)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+            "6'0",
+            "183 cm"
+        ],
+        "weight": [
+            "200 lb",
+            "90 kg"
+        ],
+        "eye-color": "Brown",
+        "hair-color": "Black"
+    },
+    "work": {
+        "occupation": "King and Chieftain of Wakanda, scientist; former school teacher",
+        "base": "Wakanda, Mobile"
+    },
+    "connections": {
+        "group-affiliation": "Formerly Fantastic Four, Secret Avengers, Avengers, Pendragons, Queen's Vengeance, former Fantastic Force financier",
+        "relatives": "Bashenga (paternal ancestor, deceased), Azzuri the Wise (paternal grandfather, deceased), Nanali (paternal grandmother, deceased), Chanda (paternal grandfather, presumably deceased), T�Chaka (father, deceased), S'Yan (uncle, deceased), N�Yami (mother, deceased), Ramonda (stepmother), Hunter (adopted brother), Jakarra (half-brother), Shuri (sister), Ororo Munroe (wife), Joshua Itobo, Ishanta, Zuni, M'Koni, T'Shan (cousins), Wheeler (cousin by marriage, deceased), Billy Wheeler (1st cousin once removed)"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/247.jpg"
+    }
+} , {
+    "response": "success",
+    "id": "659",
+    "name": "Thor",
+    "powerstats": {
+        "intelligence": "69",
+        "strength": "100",
+        "speed": "83",
+        "durability": "100",
+        "power": "100",
+        "combat": "100"
+    },
+    "biography": {
+        "full-name": "Thor Odinson",
+        "alter-egos": "Rune King Thor",
+        "aliases": [
+            "Donald Blake",
+            "Sigurd Jarlson",
+            "Jake Olsen",
+            "Donar the Mighty"
+        ],
+        "place-of-birth": "Asgard",
+        "first-appearance": "Journey into Mystery #83 (August, 1962)",
+        "publisher": "Rune King Thor",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Asgardian",
+        "height": [
+            "6'6",
+            "198 cm"
+        ],
+        "weight": [
+            "640 lb",
+            "288 kg"
+        ],
+        "eye-color": "Blue",
+        "hair-color": "Blond"
+    },
+    "work": {
+        "occupation": "King of Asgard; formerly EMS Technician; Physician",
+        "base": "New York, New York"
+    },
+    "connections": {
+        "group-affiliation": "Avengers",
+        "relatives": "Odin (father), Gaea (mother), Frigga (step-mother), Loki (step-brother), Vidar (half-brother), Buri (paternal great-grandfather), Bolthorn (maternal great grandfather), Bor (grandfather), Bestla (grandmother), Vili (uncle), Ve (uncle), Sigyn (former sister-in-law), Hela (alleged niece), Jormungand (alleged nephew), Fernis Wolf (alleged nephew)"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/140.jpg"
+    }
+} , {
+    "response": "success",
+    "id": "149",
+    "name": "Captain America",
+    "powerstats": {
+        "intelligence": "69",
+        "strength": "19",
+        "speed": "38",
+        "durability": "55",
+        "power": "60",
+        "combat": "100"
+    },
+    "biography": {
+        "full-name": "Steve Rogers",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "Nomad",
+            "The Captain"
+        ],
+        "place-of-birth": "Manhattan, New York City, New York",
+        "first-appearance": "Captain America Comics #1 (March 1941)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+            "6'2",
+            "188 cm"
+        ],
+        "weight": [
+            "240 lb",
+            "108 kg"
+        ],
+        "eye-color": "blue",
+        "hair-color": "blond"
+    },
+    "work": {
+        "occupation": "Adventurer, federal official, intelligence operative; former soldier, Hydra agent, liaison between S.H.I.E.L.D. and the Avengers, police officer, teacher, sparring partner.",
+        "base": "New York City"
+    },
+    "connections": {
+        "group-affiliation": "Secret Avengers (Black OPS Unit Formerly,The Avengers, Secret Avengers (Civil War), New Avengers, formerly The Invaders, Secret Defenders The Redeemers; formerly partner of Bucky, Golden Girl, Rick Jones, Falcon, Demolition-Man and Nomad (Jack Monroe)",
+        "relatives": "Joseph (father, deceased), Sara (mother, deceased), Ian Zola (Nomad) (adopted son)"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/274.jpg"
+    }
+} , {
+    "response": "success",
+    "id": "273",
+    "name": "Galactus",
+    "powerstats": {
+        "intelligence": "100",
+        "strength": "100",
+        "speed": "83",
+        "durability": "100",
+        "power": "100",
+        "combat": "50"
+    },
+    "biography": {
+        "full-name": "Galan",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "Maker",
+            "Devourer of Worlds",
+            "Eater-of-Worlds",
+            "Ravager of Worlds"
+        ],
+        "place-of-birth": "(Galan) Taa; (Galactus) the Cosmic Egg",
+        "first-appearance": "Fantastic Four #48 (March 1966)",
+        "publisher": "Marvel Comics",
+        "alignment": "neutral"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Cosmic Entity",
+        "height": [
+            "28'9",
+            "876 cm"
+        ],
+        "weight": [
+            "36400 lb",
+            "16 tons"
+        ],
+        "eye-color": "Black",
+        "hair-color": "Black"
+    },
+    "work": {
+        "occupation": "Planet Devourer, Third Force of the Universe - balance between Eternity and Death, Nullifying Abraxas' Influence on the Multiverse, Third Face of the Living Tribunal - representing Equity",
+        "base": "Worldship (aka Taa II); though he is generally mobile throughout the universe via his spherical starship in search of suitable planets to consume."
+    },
+    "connections": {
+        "group-affiliation": "Heralds of Galactus; formerly God Squad",
+        "relatives": "Galan (\"father\"), Galacta (daughter)"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/862.jpg"
+    }
+} , {
+    "response": "success",
+    "id": "416",
+    "name": "Luke Cage",
+    "powerstats": {
+        "intelligence": "50",
+        "strength": "63",
+        "speed": "29",
+        "durability": "95",
+        "power": "44",
+        "combat": "70"
+    },
+    "biography": {
+        "full-name": "Luke Cage",
+        "alter-egos": "Power Man",
+        "aliases": [
+            "Carl Lucas",
+            "Power Man",
+            "Mark Lucas",
+            "Hero for Hire",
+            "Ace of Spades"
+        ],
+        "place-of-birth": "Harlem, New York City",
+        "first-appearance": "Hero for Hire #1 (1972)",
+        "publisher": "Power Man",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+            "6'6",
+            "198 cm"
+        ],
+        "weight": [
+            "425 lb",
+            "191 kg"
+        ],
+        "eye-color": "Brown",
+        "hair-color": "Black"
+    },
+    "work": {
+        "occupation": "Adventurer, bar owner, bodyguard, mercenary; formerly theater owner, private investigator, various odd jobs",
+        "base": "-"
+    },
+    "connections": {
+        "group-affiliation": "Underground Avengers (formerly Daredevil's Unnamed Super-Hero Team), Secret Defenders, Heroes for Hire, Nightwing Restorations, Fantastic Four, Defenders, Bloods",
+        "relatives": "Jessica Jones (wife), James Leonard Lucas (father), Esther (mother, deceased), James Jr. (Coldfire, brother), unnamed daughter"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/269.jpg"
+    }
+} , {
+    "response": "success",
+    "id": "655",
+    "name": "Thanos",
+    "powerstats": {
+        "intelligence": "100",
+        "strength": "100",
+        "speed": "33",
+        "durability": "100",
+        "power": "100",
+        "combat": "80"
+    },
+    "biography": {
+        "full-name": "Thanos",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "The Mad Titan",
+            "Masterlord",
+            "The Overmaster",
+            "Chins"
+        ],
+        "place-of-birth": "Titan",
+        "first-appearance": "Iron Man #55",
+        "publisher": "Marvel Comics",
+        "alignment": "bad"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Eternal",
+        "height": [
+            "6'7",
+            "201 cm"
+        ],
+        "weight": [
+            "985 lb",
+            "443 kg"
+        ],
+        "eye-color": "Red",
+        "hair-color": "No Hair"
+    },
+    "work": {
+        "occupation": "Conqueror, worshiper of Death",
+        "base": "Mobile, formerly Sanctuary II, Titan"
+    },
+    "connections": {
+        "group-affiliation": "Zodiac (ally); formerly Infinity Watch, Defenders",
+        "relatives": "A'Lars (father): Sui-San (mother, deceased; Eros (brother);Kronos (paternal Grandfather, deceased); Daina (paternal grandmother, deceased); Zuras (uncle, deceased); Thena (cousin); Gamora (foster daughter);Nebula (alleged granddaughter); Rot (\"child\" by Death);"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/1305.jpg"
+    }
+} , {
+    "response": "success",
+    "id": "530",
+    "name": "Punisher",
+    "powerstats": {
+        "intelligence": "69",
+        "strength": "16",
+        "speed": "21",
+        "durability": "45",
+        "power": "42",
+        "combat": "100"
+    },
+    "biography": {
+        "full-name": "Frank Castle",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "Big Nothing",
+            "Major Bateman",
+            "Ted Bishop",
+            "Cliff Callador",
+            "Castigo",
+            "Chaloner",
+            "Fred D'Amato",
+            "Eastman",
+            "Charles Fort",
+            "Frank Loomis",
+            "McRook",
+            "Melchior",
+            "Joe Rainey",
+            "Frank Rook",
+            "Richard Rook",
+            "Tony Knowlen Ross",
+            "Francis Stronghold",
+            "Johnny Tower",
+            "Dmitri Velikoff",
+            "Fra"
+        ],
+        "place-of-birth": "Queens, New York",
+        "first-appearance": "AMAZING SPIDER-MAN #129",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+            "6'0'",
+            "183 cm"
+        ],
+        "weight": [
+            "200 lb",
+            "90 kg"
+        ],
+        "eye-color": "Blue",
+        "hair-color": "Black"
+    },
+    "work": {
+        "occupation": "Former United States Marine turned professional vigilante",
+        "base": "Mobile, usually in New York City"
+    },
+    "connections": {
+        "group-affiliation": "None; Formerly Secret Avengers, Daredevil's Unnamed Super-Hero Team, Green Berets, U.S. Marine Corps",
+        "relatives": "Maria Castle (Wife, deceased), Christie Castle (Daughter, deceased), Frank Castle Junior (Son, deceased), Mario Castle (Father, deceased), Louisa Castle (Mother, deceased), Rocco Castiglione (Uncle, deceased), Esmerelda Castiglione (Aunt, deceased), Michael Castle (Brother, stillborn, deceased)."
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/112.jpg"
+    }
+}, {
+    "response": "success",
+    "id": "391",
+    "name": "Kingpin",
+    "powerstats": {
+        "intelligence": "75",
+        "strength": "18",
+        "speed": "25",
+        "durability": "40",
+        "power": "13",
+        "combat": "70"
+    },
+    "biography": {
+        "full-name": "Wilson Grant Fisk",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "The Brain Washer",
+            "Harold Howard",
+            "Wilbur"
+        ],
+        "place-of-birth": "New York City area",
+        "first-appearance": "Amazing Spider-Man #50 (July, 1967)",
+        "publisher": "Marvel Comics",
+        "alignment": "bad"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+            "6'7",
+            "201 cm"
+        ],
+        "weight": [
+            "450 lb",
+            "203 kg"
+        ],
+        "eye-color": "Blue",
+        "hair-color": "No Hair"
+    },
+    "work": {
+        "occupation": "Criminal organizer and mastermind, president and owner of legitimate businesses",
+        "base": "A penthouse in New York City; formerly Fisk Tower in New York City, a mansion in Westchester County, Las Vegas."
+    },
+    "connections": {
+        "group-affiliation": "Leader of The Hand, leader of a coalition of East Coast non-Maggia criminal organizations; former director of Las Vegas HYDRA faction.",
+        "relatives": "Anatoly Fyskov (ancestor); Vanessa Fisk (wife, deceased); Rose (Richard Fisk) (son, deceased);"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/623.jpg"
+    }
+} , {
+    "response": "success",
+    "id": "201",
+    "name": "Daredevil",
+    "powerstats": {
+        "intelligence": "75",
+        "strength": "13",
+        "speed": "25",
+        "durability": "35",
+        "power": "61",
+        "combat": "100"
+    },
+    "biography": {
+        "full-name": "Matt Murdock",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "Matt",
+            "Jack Batlin",
+            "Kingpin of Crime",
+            "Laurent LeVasseur",
+            "Michael \"Mike\" Murdock",
+            "Scarlet Swashbuckler",
+            "Nameless One",
+            "Kingpin of Hell's Kitchen",
+            "The Man Without Fear",
+            "The Guardian Devil",
+            "DD",
+            "Red",
+            "Hornhead",
+            "Cooper Peyton",
+            "Captain Universe"
+        ],
+        "place-of-birth": "New York City, New York",
+        "first-appearance": "Daredevil #1 (April, 1964)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+            "6'0",
+            "183 cm"
+        ],
+        "weight": [
+            "200 lb",
+            "90 kg"
+        ],
+        "eye-color": "Blue",
+        "hair-color": "Red"
+    },
+    "work": {
+        "occupation": "Adventurer, vigilante, Attorney at Law",
+        "base": "Hell's Kitchen, New York, New York, Shadowland (formerly)"
+    },
+    "connections": {
+        "group-affiliation": "none; Formerly: partner of Black Widow (Natasha Romanoff), Defenders, S.H.I.E.L.D., Marvel Knights, Secret Avengers (Civil War), Hand leader.",
+        "relatives": "Jonathan \"Battling Jack\" Murdock (Father, deceased), Maggie Murdock (aka Sister Maggie, Mother), Milla Donovan (ex-wife)"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/52.jpg"
+    }
+}, {
+    "response": "success",
+    "id": "620",
+    "name": "Spider-Man",
+    "powerstats": {
+        "intelligence": "90",
+        "strength": "55",
+        "speed": "67",
+        "durability": "75",
+        "power": "74",
+        "combat": "85"
+    },
+    "biography": {
+        "full-name": "Peter Parker",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "Spiderman",
+            "Bag-Man",
+            "Black Marvel",
+            "Captain Universe",
+            "Dusk",
+            "Green Hood",
+            "Hornet",
+            "Mad Dog 336",
+            "Peter Palmer",
+            "Prodigy",
+            "Ricochet",
+            "Scarlet Spider",
+            "Spider-Boy",
+            "Spider-Hulk",
+            "Spider-Morphosis"
+        ],
+        "place-of-birth": "New York, New York",
+        "first-appearance": "Amazing Fantasy #15",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+            "5'10",
+            "178 cm"
+        ],
+        "weight": [
+            "165 lb",
+            "74 kg"
+        ],
+        "eye-color": "Hazel",
+        "hair-color": "Brown"
+    },
+    "work": {
+        "occupation": "Freelance photographer, teacher",
+        "base": "New York, New York"
+    },
+    "connections": {
+        "group-affiliation": "Member of the Avengers, formerly member of Outlaws, alternate Fantastic Four",
+        "relatives": "Richard Parker (father, deceased), Mary Parker(mother, deceased), Benjamin Parker (uncle, deceased), May Parker (aunt), Mary Jane Watson-Parker (wife), May Parker (daughter, allegedly deceased)"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/133.jpg"
+    }
+}, {
+    "response": "success",
+    "id": "226",
+    "name": "Doctor Strange",
+    "powerstats": {
+        "intelligence": "100",
+        "strength": "10",
+        "speed": "12",
+        "durability": "84",
+        "power": "100",
+        "combat": "60"
+    },
+    "biography": {
+        "full-name": "Stephen Strange",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "Sorcerer Supreme",
+            "Master of the Mystic Arts",
+            "Stephen Sanders",
+            "Captain Universe",
+            "Vincent Stevens"
+        ],
+        "place-of-birth": "Philadelphia, Pennsylvania",
+        "first-appearance": "Strange Tales #110 (July, 1963)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+            "6'2",
+            "188 cm"
+        ],
+        "weight": [
+            "180 lb",
+            "81 kg"
+        ],
+        "eye-color": "Grey",
+        "hair-color": "Black"
+    },
+    "work": {
+        "occupation": "Sorcerer Supreme, retired neurosurgeon",
+        "base": "-"
+    },
+    "connections": {
+        "group-affiliation": "Defenders, underground Avengers; formerly the Order, Midnight Sons; former disciple of the Ancient One",
+        "relatives": "Eugene (father, deceased), Beverly (mother, deceased), Victor (Khiron, brother, apparently deceased), Donna (sister, deceased), Clea (wife, estranged), Umar (mother-in-law), Orini (father-in-law), Dormammu (uncle-in-law)"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/55.jpg"
+    }
+},  {
+    "response": "success",
+    "id": "346",
+    "name": "Iron Man",
+    "powerstats": {
+        "intelligence": "100",
+        "strength": "85",
+        "speed": "58",
+        "durability": "85",
+        "power": "100",
+        "combat": "64"
+    },
+    "biography": {
+        "full-name": "Tony Stark",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "Iron Knight",
+            "Hogan Potts",
+            "Spare Parts Man",
+            "Cobalt Man II",
+            "Crimson Dynamo",
+            "Ironman"
+        ],
+        "place-of-birth": "Long Island, New York",
+        "first-appearance": "Tales of Suspence #39 (March, 1963)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+            "6'6",
+            "198 cm"
+        ],
+        "weight": [
+            "425 lb",
+            "191 kg"
+        ],
+        "eye-color": "Blue",
+        "hair-color": "Black"
+    },
+    "work": {
+        "occupation": "Inventor, Industrialist; former United States Secretary of Defense",
+        "base": "Seattle, Washington"
+    },
+    "connections": {
+        "group-affiliation": "Avengers, Illuminati, Stark Resilient; formerly S.H.I.E.L.D., leader of Stark Enterprises, the Pro-Registration Superhero Unit, New Avengers, Mighty Avengers, Hellfire Club, Force Works, Avengers West Coast, United States Department of Defense.",
+        "relatives": "Howard Anthony Stark (father, deceased), Maria Stark (mother, deceased), Morgan Stark (cousin), Isaac Stark (ancestor)"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/85.jpg"
+    }
+} , {
+    "response": "success",
+    "id": "332",
+    "name": "Hulk",
+    "powerstats": {
+        "intelligence": "88",
+        "strength": "100",
+        "speed": "63",
+        "durability": "100",
+        "power": "98",
+        "combat": "85"
+    },
+    "biography": {
+        "full-name": "Bruce Banner",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "Annihilator",
+            "Captain Universe",
+            "Joe Fixit",
+            "Mr. Fixit",
+            "Mechano",
+            "Professor",
+            "Jade Jaws",
+            "Golly Green Giant"
+        ],
+        "place-of-birth": "Dayton, Ohio",
+        "first-appearance": "Incredible Hulk #1 (May, 1962)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Human / Radiation",
+        "height": [
+            "8'0",
+            "244 cm"
+        ],
+        "weight": [
+            "1400 lb",
+            "630 kg"
+        ],
+        "eye-color": "Green",
+        "hair-color": "Green"
+    },
+    "work": {
+        "occupation": "Nuclear physicist, Agent of S.H.I.E.L.D.",
+        "base": "(Banner) Hulkbuster Base, New Mexico, (Hulk) mobile, but prefers New Mexico"
+    },
+    "connections": {
+        "group-affiliation": "Defenders, former leader of the new Hulkbusters, member of the Avengers, Pantheon, Titans Three, the Order, Hulkbusters of Counter-Earth-Franklin, alternate Fantastic Four",
+        "relatives": "Betty Ross Talbot Banner (wife), Brian Banner (father, apparently deceased), Rebecca Banner (mother, deceased), Morris Walters (uncle), Elaine Banner Walters (aunt, deceased), Jennifer Walters (She-Hulk, cousin), Thaddeus E. 'Thunderbolt' Ross (father"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/83.jpg"
+    }
+}, {
+    "response": "success",
+    "id": "598",
+    "name": "Silver Surfer",
+    "powerstats": {
+        "intelligence": "56",
+        "strength": "100",
+        "speed": "100",
+        "durability": "90",
+        "power": "100",
+        "combat": "32"
+    },
+    "biography": {
+        "full-name": "Norrin Radd",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "-"
+        ],
+        "place-of-birth": "Zenn-La",
+        "first-appearance": "Fantastic Four, Vol. 1 #48",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "Alien",
+        "height": [
+            "6'4",
+            "193 cm"
+        ],
+        "weight": [
+            "225 lb",
+            "101 kg"
+        ],
+        "eye-color": "White",
+        "hair-color": "No Hair"
+    },
+    "work": {
+        "occupation": "Adventurer, formerly Galactus' Herald",
+        "base": "mobile throughout the universe"
+    },
+    "connections": {
+        "group-affiliation": "Former member of Defenders, former member of the Star Masters",
+        "relatives": "Jartran Radd (father, deceased), Elmar Radd (mother, deceased)"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/127.jpg"
+    }
+} , {
+    "response": "success",
+    "id": "709",
+    "name": "Watcher",
+    "powerstats": {
+        "intelligence": "100",
+        "strength": "80",
+        "speed": "67",
+        "durability": "89",
+        "power": "100",
+        "combat": "56"
+    },
+    "biography": {
+        "full-name": "Uatu",
+        "alter-egos": "No alter egos found.",
+        "aliases": [
+            "-"
+        ],
+        "place-of-birth": "-",
+        "first-appearance": "Fantastic Four #13 (April, 1963)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+    },
+    "appearance": {
+        "gender": "Male",
+        "race": "null",
+        "height": [
+            "-",
+            "0 cm"
+        ],
+        "weight": [
+            "- lb",
+            "0 kg"
+        ],
+        "eye-color": "-",
+        "hair-color": "-"
+    },
+    "work": {
+        "occupation": "-",
+        "base": "-"
+    },
+    "connections": {
+        "group-affiliation": "The Watchers, Friend and Ally of the Fantastic Four, among other Earth heroes",
+        "relatives": "Ikor (father); Aron (nephew); Qyre, Zoma (cousins)"
+    },
+    "image": {
+        "url": "https://www.superherodb.com/pictures2/portraits/10/100/516.jpg"
+    }
+}
+]
+}

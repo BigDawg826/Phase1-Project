@@ -1,0 +1,24 @@
+body {
+    background-color: blueviolet;
+}
+#superhero-image {
+    border: 10px solid gold;
+    width: 480px;
+    margin-left: 500px;
+    margin-top: -350px;
+}
+
+.giphy-embed {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p {
+    text-align: center;
+}
+
+#superhero-image p {
+    font-size: 30px;
+}
